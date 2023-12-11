@@ -3,7 +3,7 @@
 $servername="localhost";
 $username="root";
 $password="";
-$dbname="thasni";
+$dbname="library management";
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);
 if(!$conn)
